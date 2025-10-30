@@ -1,0 +1,6 @@
+Justin Zahler
+October 30, 2025
+DS4200
+https://justi-nauts.github.io
+In the style.css file, I used standard sizings, fonts, and colors to represent my interests 
+(UGA colors). I wanted my website to be well organized but also reflect myself and my background.
